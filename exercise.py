@@ -1,1 +1,1 @@
-print("hello world")
+print("파이썬 예시입니다.")
